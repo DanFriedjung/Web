@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Matyas Kopecek</title>
-    <link>http://localhost:1313/Web/</link>
+    <link>https://danfriedjung.github.io/Web/</link>
     <description>Recent content on Matyas Kopecek</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/Web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danfriedjung.github.io/Web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Scan</title>
-      <link>http://localhost:1313/Web/%C3%9Akol_4/</link>
+      <link>https://danfriedjung.github.io/Web/%C3%9Akol_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Web/%C3%9Akol_4/</guid>
+      <guid>https://danfriedjung.github.io/Web/%C3%9Akol_4/</guid>
       <description>Úkol_4</description>
     </item>
     <item>
       <title>3D tisk</title>
-      <link>http://localhost:1313/Web/%C3%9Akol_3/</link>
+      <link>https://danfriedjung.github.io/Web/%C3%9Akol_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Web/%C3%9Akol_3/</guid>
+      <guid>https://danfriedjung.github.io/Web/%C3%9Akol_3/</guid>
       <description>Úkol_3</description>
     </item>
     <item>
       <title>Clima Monitor</title>
-      <link>http://localhost:1313/Web/Fin%C3%A1ln%C3%AD_projekt/</link>
+      <link>https://danfriedjung.github.io/Web/Fin%C3%A1ln%C3%AD_projekt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Web/Fin%C3%A1ln%C3%AD_projekt/</guid>
+      <guid>https://danfriedjung.github.io/Web/Fin%C3%A1ln%C3%AD_projekt/</guid>
       <description>Finální_projekt</description>
     </item>
     <item>
       <title>Elektrický okruh</title>
-      <link>http://localhost:1313/Web/%C3%9Akol_5/</link>
+      <link>https://danfriedjung.github.io/Web/%C3%9Akol_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Web/%C3%9Akol_5/</guid>
+      <guid>https://danfriedjung.github.io/Web/%C3%9Akol_5/</guid>
       <description>Úkol_5</description>
     </item>
     <item>
       <title>O mně</title>
-      <link>http://localhost:1313/Web/O_mn%C4%9B/</link>
+      <link>https://danfriedjung.github.io/Web/O_mn%C4%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Web/O_mn%C4%9B/</guid>
+      <guid>https://danfriedjung.github.io/Web/O_mn%C4%9B/</guid>
       <description>O_mně</description>
     </item>
     <item>
       <title>Řezáníní na plotteru a laseru</title>
-      <link>http://localhost:1313/Web/%C3%9Akol_2/</link>
+      <link>https://danfriedjung.github.io/Web/%C3%9Akol_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Web/%C3%9Akol_2/</guid>
+      <guid>https://danfriedjung.github.io/Web/%C3%9Akol_2/</guid>
       <description>Úkol_2</description>
     </item>
     <item>
       <title>Webová stránka</title>
-      <link>http://localhost:1313/Web/%C3%9Akol_1/</link>
+      <link>https://danfriedjung.github.io/Web/%C3%9Akol_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Web/%C3%9Akol_1/</guid>
+      <guid>https://danfriedjung.github.io/Web/%C3%9Akol_1/</guid>
       <description>Úkol_1</description>
     </item>
   </channel>
